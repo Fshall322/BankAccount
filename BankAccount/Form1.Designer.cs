@@ -51,7 +51,7 @@
             // titleLabel
             // 
             this.titleLabel.AutoSize = true;
-            this.titleLabel.Location = new System.Drawing.Point(308, 31);
+            this.titleLabel.Location = new System.Drawing.Point(266, 31);
             this.titleLabel.Name = "titleLabel";
             this.titleLabel.Size = new System.Drawing.Size(91, 13);
             this.titleLabel.TabIndex = 0;
